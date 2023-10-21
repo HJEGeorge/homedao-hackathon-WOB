@@ -1,0 +1,5 @@
+[input]
+input_amount: 500
+threshold: 1000
+actual_amount: 1500
+is_sufficient: false
