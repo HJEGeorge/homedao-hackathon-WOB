@@ -33,7 +33,7 @@ function user_interaction() {
 }
 
 function main() {
-    console.log("Welcome to DeFi-ZKP-Project!");
+    console.log("YOu want a WOD Loan?");
 
     user_interaction();
 }
