@@ -1,4 +1,4 @@
-import circuits::collateral as CollateralCircuit
+import circuits.collateral as CollateralCircuit
 
 function test_sufficient_collateral() {
     let threshold = 1000;
